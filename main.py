@@ -3,12 +3,7 @@ def main():
 
 
 if __name__ == "__main__":
-	import os
-	import sys
-
-	x=l
+	x="Hello"
 	print(x)
 	y = "hello"+"world"
-	x=1+2
-	print(x)
-	y = 1;z = 2
+	print(y)
